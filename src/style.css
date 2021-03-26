@@ -1,0 +1,25 @@
+.time{
+    position: relative;
+    text-align: center;
+}
+.settings{
+    display: flex;
+    justify-content: space-between;
+}
+
+.form-control{
+    margin-bottom: 10px;
+}
+
+.form{
+    width: 45%;
+}
+
+.clear{
+    margin-top: 10px;
+}
+
+.jumbotron {
+    height: 100vh;
+    margin-bottom: 25px;
+}
